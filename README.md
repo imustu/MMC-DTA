@@ -16,7 +16,7 @@ Davis
 
 KIBA
 
-/data/KIBA
+/data/kiba
 
 BindingDB(kd),BindingDB(EC50)
 
